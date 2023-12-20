@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Nikita\OneDrive\Рабочий стол\mp2-lab5-polinoms\listlib\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Nikita\OneDrive\Рабочий стол\mp2-lab5-polinoms\listlib\THeadList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nikita\OneDrive\Рабочий стол\mp2-lab5-polinoms\listlib\TList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Nikita\OneDrive\Рабочий стол\mp2-lab5-polinoms\listlib\TNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Nikita\OneDrive\Рабочий стол\mp2-lab5-polinoms\listlib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5B8E9D32-1B44-3286-907D-88D954FBAAFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DB60728A-A38D-3E3F-A5CC-8E4B74E6238B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
